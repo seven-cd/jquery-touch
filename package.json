@@ -1,6 +1,6 @@
 {
   "name": "@nsoft/jquery-touch",
-  "version": "1.4.6",
+  "version": "1.4.7",
   "description": "",
   "main": "jquery-touch.js",
   "scripts": {
@@ -9,6 +9,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/seven-cd/jquery-touch.git"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
   },
   "author": "",
   "license": "MIT",
